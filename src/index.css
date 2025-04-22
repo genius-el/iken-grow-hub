@@ -34,6 +34,11 @@
 
     --radius: 0.5rem;
 
+    --iken: 258 84% 75%;
+    --iken-dark: 258 30% 54%;
+    --iken-light: 258 100% 94%;
+    --iken-extraLight: 258 70% 97%;
+
     --sidebar-background: 0 0% 98%;
 
     --sidebar-foreground: 240 5.3% 26.1%;

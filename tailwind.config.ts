@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				iken: {
+					DEFAULT: '#9b87f5',
+					dark: '#7E69AB',
+					light: '#E5DEFF',
+					extraLight: '#F1F0FB'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
